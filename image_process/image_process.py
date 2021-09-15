@@ -1,9 +1,8 @@
-# -- encoding:utf-8 --
-
+# -*- encoding:utf-8 -*-
 """
 文件名：image_process
-日期：Danycym
-作者：2019/5/13
+日期：2019/5/13
+作者：Harlem
 """
 
 import numpy as np
